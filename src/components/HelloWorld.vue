@@ -40,37 +40,37 @@ export default {
       list: [
         {
           image: require("../assets/ys.jpg"),
-          name: "胡兼",
-          ys: "主治医生",
-          zr: "上海胸科医院主任",
+          name: "刘旭",
+          ys: "主任医师",
+          zr: "上海市胸科医院二级教授、博导",
           nr: "让看病方便",
         },
         {
           image: require("../assets/liubaodong.jpg"),
-          name: "赵金鹏",
-          ys: "主治医生",
-          zr: "上海胸科医院主任",
+          name: "曹江",
+          ys: "副主任医师",
+          zr: "上海市长海医院博士生导师",
           nr: "让看病方便",
         },
         {
           image: require("../assets/lan.jpg"),
-          name: "湖南",
-          ys: "主治医生",
-          zr: "上海胸科医院主任",
+          name: "孙健",
+          ys: "副主任医师",
+          zr: "上海市新华医院硕士生导师",
           nr: "让看病方便",
         },
         {
           image: require("../assets/jianghao.jpg"),
-          name: "老牛",
-          ys: "主治医生",
-          zr: "上海胸科医院主任",
+          name: "郭志福",
+          ys: "副主任医师 副教授",
+          zr: "上海长海医院心血管内科副主任医师",
           nr: "让看病方便",
         },
         {
           image: require("../assets/ys.jpg"),
-          name: "老王",
-          ys: "主治医生",
-          zr: "上海胸科医院主任",
+          name: "胡坚",
+          ys: "主治医师",
+          zr: "上海胸科医院外科主任",
           nr: "让看病方便",
         },
       ],
@@ -163,7 +163,7 @@ header {
           margin: 0;
           .span1 {
             color: #3293fb;
-            // letter-spacing: 6px;
+            letter-spacing: 6px;
             font-size: 20px;
             margin-right: 11px;
           }
@@ -243,19 +243,19 @@ header {
           margin: 0;
           .span1 {
             color: #3293fb;
-            // letter-spacing: 21px;
+            letter-spacing: 3px;
             font-size: 20px;
           }
           .span2 {
             color: #000;
-            font-size: 14px;
+            font-size: 12px;
           }
         }
         .p2 {
           margin: 0;
           font-size: 12px;
           color: #858585;
-          letter-spacing: 2px;
+          // letter-spacing: 2px;
         }
         .p3 {
           margin: 0;
